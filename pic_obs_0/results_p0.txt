@@ -1,0 +1,2 @@
+alpha(t0) = 0
+beta(t0) = 1

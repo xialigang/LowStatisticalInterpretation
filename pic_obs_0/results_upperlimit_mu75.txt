@@ -1,0 +1,7 @@
+mu = 75
+alpha_H0 = 0.145381
+beta_H0 = 0.854619
+alpha_Hmu = 0.998621
+beta_Hmu = 0.00137934
+tobsmu = 12.9953
+CLs = 0.00161398
